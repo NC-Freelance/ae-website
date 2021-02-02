@@ -1,6 +1,6 @@
 backend:
   name: github
-  reop: NC-Freelance/ae-website
+  repo: NC-Freelance/ae-website
   branch: main
 
 media_folder: static/assets
