@@ -1,13 +1,15 @@
 backend:
-  name: test-repo
+  name: github
+  reop: NC-Freelance/ae-website
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
 
 collections:
-  - name: blog
-    label: Blog
-    folder: blog
+  - name: page
+    label: Page
+    folder: Pages
     create: true
     fields:
       - { name: path, label: Path }
