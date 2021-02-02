@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: NC-Freelance/ae-website
   branch: main
 
